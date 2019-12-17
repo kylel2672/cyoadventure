@@ -1,0 +1,3 @@
+# HEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!!!!!!!!!!!!!!!!!!!!!!
+# Welcome to this CHOOSE YOUR OWN ADVENTURE THING!!!!!!
+# JUST PRESS home.md TO START YOUR ADVENTURE!!!!!!!!!!!!!!!
