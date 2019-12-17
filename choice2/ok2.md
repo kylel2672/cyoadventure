@@ -2,5 +2,5 @@
 ---
 ![]()
 ---
-## [Get a job](../scene3.md)
-## [Stay home, be lazy](debt.md)
+## [Get a job](../college/scene3.md)
+## [Stay home, be lazy](../college/debt.md)
