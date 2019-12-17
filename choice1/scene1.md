@@ -1,4 +1,4 @@
-## Now you are failing thhe class, because that was your very important midterm.
+## Now you are failing the class, because that was your very important midterm.
 ## But you got another chance for your finals.
 ---
 ![]()

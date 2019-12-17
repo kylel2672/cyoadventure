@@ -1,4 +1,4 @@
-## You went to college and got a great job afterwards! You are also really rich
+## You went to college and got a great job afterwards! You are also really rich.
 ---
 ![]()
 ---

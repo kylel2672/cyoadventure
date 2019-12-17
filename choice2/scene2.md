@@ -3,4 +3,4 @@
 ![]()
 ---
 ## [Accept the scholarship](great.md)
-## [Decline it](scene3.md)
+## [Decline it](ok2.md)
