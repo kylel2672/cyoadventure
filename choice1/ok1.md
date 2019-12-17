@@ -1,5 +1,6 @@
-# You got a steady job and have just enough money to feed yourself **OK END**
+## You now entered college but that college loan ain't going to pay itself.
 ---
 ![]()
 ---
-## [Start over](../home.md)
+## [Get a job](../scene3.md)
+## [Stay home, be lazy](debt.md)

@@ -1,4 +1,4 @@
-# You're now homeless **BAD ENDING**
+# You're now homeless because you didn't even bother about school. **BAD ENDING**
 ---
 ![]()
 ---

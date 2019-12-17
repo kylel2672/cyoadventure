@@ -1,7 +1,7 @@
-## Now you are failing thhe class, because that was your very important final.
-## But you got offered a scholarship as well.
+## Now you are failing thhe class, because that was your very important midterm.
+## But you got another chance for your finals.
 ---
 ![]()
 ---
-## [Hang out with your friends still](bad1.md)
-## [Accept the scholarship](ok1.md)
+## [Hang out with your friends still.](bad1.md)
+## [Study for your finals.](ok1.md)
