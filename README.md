@@ -1,3 +1,2 @@
-# HEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!!!!!!!!!!!!!!!!!!!!!!
-# Welcome to this CHOOSE YOUR OWN ADVENTURE THING!!!!!!
-# JUST PRESS home.md TO START YOUR ADVENTURE!!!!!!!!!!!!!!!
+# Hey, Welcome to this choose your own adventure sotry.
+# Click [here](home.md) to start.
